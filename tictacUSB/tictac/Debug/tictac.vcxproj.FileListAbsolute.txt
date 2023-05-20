@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\tictac\tictac\Debug\tictac.vcxproj.AssemblyReference.cache
+C:\Users\USER\source\repos\tictac\tictac\Debug\tictac.MyForm.resources
+C:\Users\USER\source\repos\tictac\tictac\Debug\tictac.vcxproj.GenerateResource.cache
+E:\finals\tictac\tictac\Debug\tictac.vcxproj.AssemblyReference.cache
+E:\finals\tictac\tictac\Debug\tictac.MyForm.resources
+E:\finals\tictac\tictac\Debug\tictac.vcxproj.GenerateResource.cache
+C:\Users\joanp\Desktop\finaLs\tictac\tictac\Debug\tictac.vcxproj.AssemblyReference.cache
+C:\Users\joanp\Desktop\finaLs\tictac\tictac\Debug\tictac.MyForm.resources
+C:\Users\joanp\Desktop\finaLs\tictac\tictac\Debug\tictac.vcxproj.GenerateResource.cache
+E:\finals\tictacUSB\tictac\Debug\tictac.vcxproj.AssemblyReference.cache
+E:\finals\tictacUSB\tictac\Debug\tictac.MyForm.resources
+E:\finals\tictacUSB\tictac\Debug\tictac.vcxproj.GenerateResource.cache
